@@ -6,7 +6,7 @@
 - arduino UNO
 - 125 kHz card or tag
 
-##Coneection
+##Wiring RDM6300 and Arduino
 <img src='http://76.my/Malaysia/rdm6300-rfid-module-arduino-monkeyelectronic-1508-24-monkeyelectronic@3.jpg' />
 
 | RDM6300 | Arduino |
